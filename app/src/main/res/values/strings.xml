@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="slack_handle">\@doilio</string>
+    <string name="phone_number">+258 82 368 9359</string>
+    <string name="email">doiliomatsinhe@hotmail.com</string>
+    <string name="mozambique">Mozambique</string>
+    <string name="my_name">Doílio Abel Matsinhe</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="_email">Email:</string>
+    <string name="_phone_number">Phone Number:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="android">Android</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_ssl">Invalid SSL Certificate, Grant Permission?</string>
+</resources>
