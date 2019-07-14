@@ -73,7 +73,6 @@ public class AboutActivity extends AppCompatActivity {
             progressBar.setVisibility(View.GONE);
         }
     }
-
     private void initComponents() {
         webView = binding.webView;
         progressBar = binding.progressCircular;
